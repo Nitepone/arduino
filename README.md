@@ -1,3 +1,12 @@
+# Changes in this Fork
+
+This fork is about improving the OLED example code for my usecase.
+
+Changes so far:
+
+- Improved UI to have Graphing Capabilities
+- Improved UI to have a single "overall" stats page
+
 AirGradient Arduino Library for ESP8266 (Wemos D1 MINI)
 =====================================================================================================
 
